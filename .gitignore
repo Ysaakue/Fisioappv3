@@ -28,3 +28,5 @@
 
 # rbenv local configuration
 .ruby-version
+# Ignore application configuration
+/config/application.yml
