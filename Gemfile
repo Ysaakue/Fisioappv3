@@ -42,3 +42,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # keep sensitive data safe
 gem "figaro"
+
+# User Authentication
+gem 'devise_token_auth'
