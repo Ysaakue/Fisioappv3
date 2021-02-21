@@ -45,3 +45,6 @@ gem "figaro"
 
 # User Authentication
 gem 'devise_token_auth'
+
+# Manage Locales
+gem 'rails-i18n'
